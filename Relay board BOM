@@ -1,0 +1,26 @@
+	EFI relay board Bom					
+						
+qty        	description                      	supplier	        part number	     Pack qty	    unit cost 	     line total
+						
+1	          pcb	PCBway				                                                      1          £10.42            £10.42 
+5	          ATO fuse holders	            RS Components          	787-4353	        4	         £4.10 	           £20.50 
+1	          DB25 female	                  RS Components          	251-659	          1	         £2.66 	           £2.66 
+1	          DB25 male shell    	          RS Components          	233-382	          1	         £1.15 	           £1.15 
+18	        DB crimp pins      	          RS Components	          673-4954	        100	       £0.05 	           £0.90 
+2	          6R 25W resistors	            Farnell	                3976517          	1	         £6.13 	           £12.26 
+1	          Molex KK 4 pin header	        RS Components	          679-5688	        10	       £0.42 	           £0.42 
+1	          Molex KK 4 pin housing	      RS Components	          679-5072	        10	       £0.21 	           £0.21 
+4	          Molex KK pins	                RS Components	          173-3284	        100	       £0.08 	           £0.32 
+3	          3 pole 5mm screw terminal	    RS Components	          193-0592	        5	         £1.39 	           £4.17 
+2	          2 pole 5mm screw terminal	    RS Components	          193-0586	        2	         £0.93 	           £1.86 
+1	          5 pole 5mm screw terminal	    Farnell	                1845624          	1	         £1.29 	           £1.29 
+2	          8 pole 3.5mm screw terminal	  Farnell	                4179022	          1	         £0.90 	           £1.80 
+1	          2N7000	                      Farnell	                9845178          	5	         £0.54 	           £0.54 
+1	          Relay  12V 30A	              RS Components          	680-2534	        1	         £6.58 	           £6.58 
+2	          Relay 	                      Farnell	                1175084	          1	         £5.76 	           £11.52 
+2	          D socket screw lock pillar	  RS Components          	673-4945	        10	       £0.33 	           £0.66 
+						    
+						
+						
+						
+					                                                                                     Total 	 £77.26 
